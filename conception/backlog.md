@@ -23,9 +23,11 @@
 # Backlog S0:
 
 - Le joueur peut déplacer son personnage dans une salle à l'aide du clavier,
+   --> différent/indépendant de "Le joueur peut se déplacer dans une salle contenant des obstacles"?
 - Le joueur peut se déplacer dans une salle contenant des obstacles,
 - La disposition de la salle est générée à partir d'un fichier,
 - Des ennemis pourchassent le personnage,
+  --> dans quel but?
 
 # Backlog S1:
 

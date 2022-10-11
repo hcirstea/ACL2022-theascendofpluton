@@ -3,8 +3,8 @@ package fr.ul.theascendofpluton;
 import com.badlogic.gdx.physics.box2d.*;
 
 public class Enemy {
-    public BodyDef bodyDef;
-    public Body body;
+    private BodyDef bodyDef;
+    private Body body;
 
     //x,y postion de l'ennemi dans le monde
     public Enemy(World world, int x, int y){
